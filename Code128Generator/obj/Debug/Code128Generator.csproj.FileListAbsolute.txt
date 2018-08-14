@@ -1,0 +1,7 @@
+D:\VS Projects\Local\Code128Generator\Code128Generator\bin\Debug\Code128Generator.exe.config
+D:\VS Projects\Local\Code128Generator\Code128Generator\bin\Debug\Code128Generator.exe
+D:\VS Projects\Local\Code128Generator\Code128Generator\bin\Debug\Code128Generator.pdb
+D:\VS Projects\Local\Code128Generator\Code128Generator\obj\Debug\Code128Generator.csprojResolveAssemblyReference.cache
+D:\VS Projects\Local\Code128Generator\Code128Generator\obj\Debug\Code128Generator.csproj.CoreCompileInputs.cache
+D:\VS Projects\Local\Code128Generator\Code128Generator\obj\Debug\Code128Generator.exe
+D:\VS Projects\Local\Code128Generator\Code128Generator\obj\Debug\Code128Generator.pdb
